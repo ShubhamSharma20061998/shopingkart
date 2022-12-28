@@ -1,0 +1,11 @@
+.main_container {
+  color: #000;
+  background-color: #fff;
+}
+.menu_list {
+  justify-content: flex-end;
+  margin-right: 2rem;
+}
+.menu_list button {
+  color: #000;
+}

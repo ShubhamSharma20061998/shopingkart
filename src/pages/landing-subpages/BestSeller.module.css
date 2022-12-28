@@ -1,0 +1,11 @@
+.card_container {
+  text-align: center;
+  margin: 0 auto !important;
+}
+.cards {
+  width: 100%;
+}
+.card_img {
+  height: 18rem;
+  width: 100%;
+}
