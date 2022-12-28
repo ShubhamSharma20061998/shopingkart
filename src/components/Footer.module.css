@@ -1,3 +1,7 @@
 .subscribe {
   height: 50vh;
 }
+.footer_links {
+  background-color: rgb(69, 69, 69);
+  color: #fff;
+}

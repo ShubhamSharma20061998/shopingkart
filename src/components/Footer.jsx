@@ -21,7 +21,7 @@ const Footer = () => {
       <section className="mission">
         <OurMission />
       </section>
-      <section className="footer_links">
+      <section className={styles.footer_links}>
         <FooterLinks />
       </section>
       <section className="copyright">
